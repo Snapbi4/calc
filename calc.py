@@ -20,5 +20,5 @@ elif what == "/" :
     print ("Результат: " + str(c) )
 else :
     print ( "не верное значение")
-
+print ("все ок")
 input ()
