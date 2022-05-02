@@ -21,3 +21,4 @@ for x in range (3):
         print ("Результат: " + str(c) )
     else :
         print ( "не верное значение")
+
